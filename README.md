@@ -31,10 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video autoplay loop muted playsinline>
-  <source src="https://i.imgur.com/a4SFchJ.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src='https://github.com/idkuri/Crewmates/blob/main/public/crewmates.gif?raw=true' title='Video Walkthrough' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
