@@ -31,7 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video autoplay loop muted playsinline>
+  <source src="https://i.imgur.com/a4SFchJ.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
